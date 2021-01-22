@@ -1,0 +1,26 @@
+{
+  "name": "pro-hw3",
+  "version": "1.0.0",
+  "description": "проект ДЗ №3",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IsmagilovRF/pro-hw3.git"
+  },
+  "keywords": [
+    "biblio"
+  ],
+  "author": "IsmagilovRF",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IsmagilovRF/pro-hw3/issues"
+  },
+  "homepage": "https://github.com/IsmagilovRF/pro-hw3#readme",
+  "dependencies": {
+    "@ismagilovrf/ajs": "^1.0.0"
+  }
+}
